@@ -51,7 +51,7 @@ export default function RegistrationForm() {
       </form>
       {submitted && (
         <div className="submitted-data">
-          <p><strong>Nome:</strong> {formData.name}</p>
+          <p><strong>Nomeeeeee:</strong> {formData.name}</p>
           <p><strong>Cognome:</strong> {formData.surname}</p>
           <p><strong>Email:</strong> {formData.email}</p>
         </div>
